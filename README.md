@@ -55,7 +55,7 @@ This portfolio is both a record of my learning journey and a demonstration of my
 
 ## 📫 Contact
 If you’d like to connect or learn more about my work:  
-- **LinkedIn:** [\[Your LinkedIn URL\]  ](https://www.linkedin.com/in/jeffrey-manning-7aa8a4386/)
+- **LinkedIn:** [\[Jeffrey Manning\]  ](https://www.linkedin.com/in/jeffrey-manning-7aa8a4386/)
 - **Email:** zequki@yahoo.com  
 
 ---
