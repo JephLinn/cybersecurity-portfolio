@@ -69,3 +69,4 @@ You now have:
 - A real-time attack map visualization
 
 - A thank you to Josh Madakor and Cyber Range for the project.
+![Attack Map](images/attackMap.png)
