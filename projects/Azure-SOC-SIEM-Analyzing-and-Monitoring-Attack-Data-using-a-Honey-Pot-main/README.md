@@ -70,3 +70,6 @@ You now have:
 
 - A thank you to Josh Madakor and Cyber Range for the project.
 ![Attack Map](images/attackMap.png)
+![Attack Map](images/attackMap2.png)
+![Attack Map](images/siem.png)
+![Attack Map](images/siem2.png)
